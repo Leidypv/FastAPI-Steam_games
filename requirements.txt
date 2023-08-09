@@ -82,7 +82,7 @@ pydantic==2.0.2
 pydantic_core==2.1.2
 Pygments
 pyparsing==3.0.9
-python
+python==23.2.1
 python-json-logger
 pytz==2023.3
 pywinpty
